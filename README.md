@@ -5,7 +5,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/shahique-chishti-4b45a2271">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://https://www.instagram.com/shahiquechishti/">
+  <a href="https://www.instagram.com/shahiquechishti/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100075417766999">
