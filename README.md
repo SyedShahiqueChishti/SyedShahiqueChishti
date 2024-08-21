@@ -33,7 +33,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbdulMoazzim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahique-chishti-4b45a2271/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ShahiqueChishti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahique-chishti-4b45a2271/)
 <hr>
 
 :hammer_and_wrench: Languages and Tools :<br>
