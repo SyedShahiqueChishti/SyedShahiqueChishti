@@ -8,7 +8,7 @@
   <a href="https://https://www.instagram.com/shahiquechishti/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100084303611936">
+  <a href="https://www.facebook.com/profile.php?id=100075417766999">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
 </div>
